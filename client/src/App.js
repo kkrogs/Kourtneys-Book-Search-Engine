@@ -9,7 +9,7 @@ import SavedBooks from './pages/SavedBooks';
 import Navbar from './components/Navbar';
 
 
-// establish apollo client
+// establishing apollo client
 const client = new ApolloClient({
   request: operation => {
     const token = localStorage.getItem('id_token');
