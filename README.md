@@ -8,8 +8,8 @@ This project is a full stack web application which allows users to search books 
 * [Usage](#usage)
 * [License](#license)
 * [Contributors](#contributors)
-* [Tests](#tests)
 * [Questions](#questions)
+* [Deployment](#deployment)
 # Installation
 The following necessary dependencies must be installed to run the application The user needs to clone the application to their local repository,  run 'npm install' and then 'npm start dev' to start the application. There is also a deployed version of the web application mentioned below if the user does not want to clone this project to their repositiory.
 # Usage
@@ -26,3 +26,7 @@ If you have any questions about the repository, feel free to contact me at kourt
 
 Here is a link to view the repository from Github:
 https://github.com/kkrogs/Kourtneys-Book-Search-Engine
+
+# Deployment
+
+Here is a link to the deployed application: https://kourtneys-book-search.herokuapp.com/
