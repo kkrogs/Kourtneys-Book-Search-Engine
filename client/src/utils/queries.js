@@ -1,6 +1,6 @@
 import gql from 'graphql-tag';
 
-// queries for logged in users
+// queries for users logged in
 export const GET_ME = gql`
   {
     me {
