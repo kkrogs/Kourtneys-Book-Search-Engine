@@ -29,4 +29,4 @@ https://github.com/kkrogs/Kourtneys-Book-Search-Engine
 
 # Deployment
 
-Here is a link to the deployed application: https://kourtneys-book-search.herokuapp.com/
+Here is a link to the deployed application: 
