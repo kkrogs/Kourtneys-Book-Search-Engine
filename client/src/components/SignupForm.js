@@ -43,7 +43,7 @@ const SignupForm = () => {
 
   return (
     <>
-      {/* This is needed for the validation of functionality above */}
+      {/* This is needed for the validation of functionality as seen above */}
       <Form noValidate validated={validated} onSubmit={handleFormSubmit}>
         {/* show alert if server response is bad */}
         <Alert dismissible onClose={() => setShowAlert(false)} show={showAlert} variant='danger'>
