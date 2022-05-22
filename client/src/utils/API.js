@@ -1,4 +1,4 @@
-// route to get logged in users info (needs the token)
+// route to get logged in users info (requires the token)
 export const getMe = (token) => {
   return fetch('/api/users/me', {
     headers: {
